@@ -56,7 +56,7 @@ Verified on GitHub by Martha Robles.
 | Personalized guide | 77d50c2 | `docs: personalize festival visitor guide` |
 | Visitor access information |  1fa7f41 | `docs: add visitor access information` |
 | GitHub verification | 973456a | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Final reflection | d10bba2 | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
