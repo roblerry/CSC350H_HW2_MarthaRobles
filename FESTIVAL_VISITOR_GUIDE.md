@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Martha Robles
+- Course and section: CSC350-1300
+- Date: 09/12/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: [\[Repository URL\]](https://github.com/roblerry/CSC350H_HW2_MarthaRobles)
+- Starting `git status`: "On branch main. working tree clean"
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: 26th Annual Moon Festival
+- Location: Kissena Corridor Park, Flushing, NYC
+- Intended audience: For all ages, family friendly.
+- Theme: Families get to participate on a moon pie eating contest and see fireworks
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   Working directory
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   Neither since I haven't done git add and git commit yet
 
 ## Arrival Information
 
