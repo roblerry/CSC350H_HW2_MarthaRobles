@@ -47,7 +47,7 @@ Since it gets so crowded, keep your personal belonging with you at all times and
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Martha Robles.
 
 ## Commit Evidence
 
