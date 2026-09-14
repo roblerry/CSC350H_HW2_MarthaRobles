@@ -53,30 +53,33 @@ Verified on GitHub by Martha Robles.
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Personalized guide | 77d50c2 | `docs: personalize festival visitor guide` |
+| Visitor access information |  1fa7f41 | `docs: add visitor access information` |
+| GitHub verification | 973456a | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file stay in the working directory, while committing records the staged changes in the local Git history
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   git diff shows changes that haven't been staged yet.
+   git diff --staged shows the changes that have been staged and ready to commit
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   The GitHub verification was created in a commit on the remote GitHub repository. My local repository did not have that commit until I used git pull to "bring it"
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   The -u option set local main branch to the main branch on the origin remote.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   Local main branch is up to date with origin/main.
+   Working tree is clean, nothing to commit
+   The newest commit ID matches the commit on GitHub
 
