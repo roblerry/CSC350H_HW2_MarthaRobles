@@ -32,17 +32,18 @@
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
-
+- Transit or parking: Take the 7 train to Flushing-Main street.
+Parking costs 5$
+- Entrance or meeting location: Main street (parade route)
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Wheelchair routes and entrances will be available with ramps
+2. Accessible seating areas will be available near the main festival activities
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Since it gets so crowded, keep your personal belonging with you at all times and stay alert of your surroundings.
+
 
 ## GitHub Verification
 
